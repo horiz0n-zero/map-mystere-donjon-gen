@@ -27,6 +27,7 @@
 		88B2C45A1CFCB3B900010EC8 /* SFX42.wav in Resources */ = {isa = PBXBuildFile; fileRef = 88B2C4591CFCB3B900010EC8 /* SFX42.wav */; };
 		88B2C45D1CFCC89400010EC8 /* foret_pomme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88B2C45B1CFCC89400010EC8 /* foret_pomme.mp3 */; };
 		88B2C45E1CFCC89400010EC8 /* foret_crepuscule.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88B2C45C1CFCC89400010EC8 /* foret_crepuscule.mp3 */; };
+		88E9D0B61D44E92F00878AAF /* IMG_0039.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88E9D0B51D44E92F00878AAF /* IMG_0039.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		88B2C4591CFCB3B900010EC8 /* SFX42.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX42.wav; sourceTree = "<group>"; };
 		88B2C45B1CFCC89400010EC8 /* foret_pomme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = foret_pomme.mp3; sourceTree = "<group>"; };
 		88B2C45C1CFCC89400010EC8 /* foret_crepuscule.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = foret_crepuscule.mp3; sourceTree = "<group>"; };
+		88E9D0B51D44E92F00878AAF /* IMG_0039.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0039.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				881F1C961CFF480D00F4CD64 /* Media.xcassets */,
+				88E9D0B51D44E92F00878AAF /* IMG_0039.jpg */,
 				88B2C45B1CFCC89400010EC8 /* foret_pomme.mp3 */,
 				88B2C45C1CFCC89400010EC8 /* foret_crepuscule.mp3 */,
 				88B2C4551CFCA8BB00010EC8 /* foret_brumeuse.mp3 */,
@@ -175,6 +178,7 @@
 				8830A82F1CFAD8C600606935 /* LaunchScreen.storyboard in Resources */,
 				881F1C971CFF480D00F4CD64 /* Media.xcassets in Resources */,
 				88B2C4581CFCB2FA00010EC8 /* bad_move_06.caf in Resources */,
+				88E9D0B61D44E92F00878AAF /* IMG_0039.jpg in Resources */,
 				88B2C45D1CFCC89400010EC8 /* foret_pomme.mp3 in Resources */,
 				8830A82C1CFAD8C600606935 /* Assets.xcassets in Resources */,
 				8830A82A1CFAD8C600606935 /* Main.storyboard in Resources */,
