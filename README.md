@@ -1,5 +1,5 @@
 # map-mystere-donjon-gen
-#*un jeu teste écrit en swift avec spritekit visant a générer des donjons aléatoires avec un dictionaire [Entier: structure]*
+##*un jeu teste écrit en swift avec spritekit visant a générer des donjons aléatoires avec un dictionaire [Entier: structure]*
 
 
 ![alt tag](https://github.com/horiz0n-zero/map-mystere-donjon-gen/blob/master/map%20mystere/IMG.jpg)
