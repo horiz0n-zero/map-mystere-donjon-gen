@@ -159,7 +159,6 @@ class GameScene: SKScene {
                     } else {
                         self.player.devant()
                         self.runAction(son_mauvais_mouvement)
-                      
                     }
                     
                 }
